@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Catalogue</string>
+    <string name="email">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="catalogar">Catalogar</string>
+    <string name="status">Status</string>
+    <string name="catalogo">Catálogo</string>
+    <string name="conta">Conta</string>
+    <string name="animal">Animais</string>
+    <string name="vegetal">Vegetais</string>
+    <string name="nome">Nome</string>
+    <string name="obs">Observações</string>
+    <string name="sexo">Sexo</string>
+    <string name="idade">Idade</string>
+    <string name="tipo">Tipo</string>
+
+    <string-array name="escolherSexo">
+        <item></item>
+        <item>M</item>
+        <item>F</item>
+    </string-array>
+</resources>
